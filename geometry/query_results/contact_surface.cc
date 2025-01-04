@@ -8,6 +8,7 @@ namespace geometry {
 using std::make_unique;
 using std::unique_ptr;
 using std::vector;
+using bp: vector;
 
 template <typename T>
 ContactSurface<T>::ContactSurface(
